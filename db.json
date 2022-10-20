@@ -1,0 +1,65 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "title": "Who had a 1973 hit with the song 'Hocus Pocus'?",
+            "option": ["Rush", "Focus", "Pliot", "AC/DC"],
+            "answer": "Pliot"
+        },
+        {
+            "id": 2,
+            "title": "Which band had hits in 1972 with the songs 'Bady' I'm A Want You','Everything I own' and 'The Guitar Man'",
+            "option": ["Chicago", "Smokie", "Bread", "America"],
+            "answer": "America"
+        },
+        {
+            "id": 3,
+            "title": "Who is the Pink Floyd song 'Shine on You Crazy Diamond' written about?",
+            "option": ["Floyd", "John Lennon", "Syd Barrett", "David Gilmour"],
+            "answer": "John Lennon"
+        },
+        {
+            "id": 4,
+            "title": "Who song is not by TheFatRat?",
+            "option": ["Windfall", "Infinite Power!", "Ascent", "Monody"],
+            "answer": "Ascent"
+        },
+        {
+            "id": 5,
+            "title": "In 2015, David Hasselhof released a single called...",
+            "option": ["Real Kung-Fury", "True Survivor", "True Fighter", "Real Warrior"],
+            "answer": "Real Kung-Fury"
+        },
+        {
+            "id": 6,
+            "title": "What is the first track on Kanye West's 808s & Heartbreak?",
+            "option": ["Heartless", "Welcome to Heartbreak", "Say You Will", "Street Lights"],
+            "answer": "Say You Will"
+        },
+        {
+            "id": 7,
+            "title": "When did Tame Impala release their second album?",
+            "option": ["1967", "2015", "2012", "2010"],
+            "answer": "2012"
+        },
+        {
+            "id": 8,
+            "title": "Who was the lead singer and frontman of rock band R.E.M?",
+            "option": ["George Michael", "Michael Stipe", "Thom Yorke", "Chris Martin"],
+            "answer": "Thom Yorke"
+        },
+        {
+            "id": 9,
+            "title": "Which of these bands was a featuring artist in Compton rapper Kendrick Lamar's 2017 album, 'DAMN.'?",
+            "option": ["U2", "Bon Jovi", "Radiohead", "Coldplay"],
+            "answer": "Bon Jovi"
+        },
+        {
+            "id": 10,
+            "title": "Who is the lead singer of the Smashing Pumpkins?",
+            "option": ["Chino Moreno", "Brett Scallions", "Billy Corgan", "Eddie Vedder"],
+            "answer": "Billy Corgan"
+        }
+    ]
+}
+
